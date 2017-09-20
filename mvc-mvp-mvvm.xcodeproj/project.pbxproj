@@ -516,6 +516,7 @@
 				80DE64651EFAFDF8007EB2EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		80DE64661EFAFDF8007EB2EB /* Build configuration list for PBXNativeTarget "mvc-mvp-mvvmTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				80DE64681EFAFDF8007EB2EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		80DE64691EFAFDF8007EB2EB /* Build configuration list for PBXNativeTarget "mvc-mvp-mvvmUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				80DE646B1EFAFDF8007EB2EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
